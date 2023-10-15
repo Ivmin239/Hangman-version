@@ -1,3 +1,4 @@
+
 import numpy as np
 import os
 #--------------------------------------------------------
@@ -104,7 +105,7 @@ def check(guess, tried_letters):
   return guess
 
 
-#функция которая спрашивает сыграть ли еще раз
+#функция которая прашивает сыграть ли еще раз
 def again():
   while True:
     try:
